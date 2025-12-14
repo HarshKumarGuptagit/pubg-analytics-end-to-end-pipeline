@@ -10,6 +10,9 @@ Built with Python, Docker, Airflow, and SQL, it is designed to handle complex, s
 
 ![PUBG ELT Pipeline Architecture](assets/PUBG%20ELT%20Pipeline.png)
 
+### 📊 Dashboard
+Explore the interactive report here: [**View Live Looker Studio Dashboard**](https://lookerstudio.google.com/reporting/94b8ffd6-d713-45fc-9bc5-8983bdf01061)
+
 ## 🛠️ Tech Stack
 
 * **Ingestion:** Python (Dockerized)
