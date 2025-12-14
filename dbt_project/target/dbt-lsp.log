@@ -1,0 +1,898 @@
+==================== 2025-12-13T11:36:37.514507Z | d73a2e12-f7c8-4e42-b964-72efdb1b8802 ====================
+11:36:37.514978 [info ]: Starting dbt LSP server
+11:36:37.515160 [info ]: Connecting to LSP client on port 8000
+11:36:37.516961 [info ]: Successfully connected to LSP client
+11:36:37.516976 [info ]: Creating LSP service...
+11:36:37.586883 [info ]: Creating LSP server...
+11:36:37.586911 [info ]: Starting LSP server...
+11:36:37.624657 [info ]: Started loading project
+11:36:38.045548 [info ]: Started parsing
+11:36:38.496396 [info ]: Finished loading project [  0.87s]
+11:36:38.590280 [info ]: Finished parsing [  0.54s]
+11:36:38.595915 [info ]: Cached model count updated: 2 models (estimate)
+11:36:38.595957 [info ]: Cached model count updated: 2 models (accurate)
+11:36:38.598144 [info ]: Started scheduling
+11:36:38.602156 [info ]: Finished scheduling [  0.00s]
+11:42:46.059919 [info ]: Started loading project
+11:42:46.340875 [info ]: Started parsing
+11:42:46.413011 [info ]: Finished parsing [  0.07s]
+11:42:46.418482 [info ]: Finished loading project [  0.36s]
+11:42:46.452814 [info ]: Started loading project
+11:42:46.693291 [info ]: Started parsing
+11:42:46.745848 [info ]: Finished loading project [  0.29s]
+11:42:46.854187 [info ]: Finished parsing [  0.16s]
+11:42:46.860097 [info ]: Cached model count updated: 2 models (estimate)
+11:42:46.860817 [info ]: Cached model count updated: 2 models (accurate)
+11:42:46.865816 [info ]: Started scheduling
+11:42:46.873486 [info ]: Finished scheduling [  0.01s]
+11:45:09.453424 [info ]: Started loading project
+11:45:09.578712 [info ]: Started parsing
+11:45:09.613955 [info ]: Finished loading project [  0.16s]
+11:45:09.630997 [info ]: Finished parsing [  0.05s]
+11:45:09.631396 [info ]: Cached model count updated: 2 models (estimate)
+11:45:09.631415 [info ]: Cached model count updated: 2 models (accurate)
+11:45:09.631447 [info ]: Started scheduling
+11:45:09.631532 [info ]: Finished scheduling [  0.00s]
+11:45:09.666730 [info ]: Started loading project
+11:45:09.785089 [info ]: Started parsing
+11:45:09.821876 [info ]: Finished loading project [  0.16s]
+11:45:09.828634 [info ]: Finished parsing [  0.04s]
+11:45:09.828936 [info ]: Cached model count updated: 2 models (estimate)
+11:45:09.828948 [info ]: Cached model count updated: 2 models (accurate)
+11:45:09.828968 [info ]: Started scheduling
+11:45:09.829013 [info ]: Finished scheduling [  0.00s]
+11:45:09.880122 [info ]: Started loading project
+11:45:10.007080 [info ]: Started parsing
+11:45:10.051215 [info ]: Finished loading project [  0.17s]
+11:45:10.064458 [info ]: Finished parsing [  0.06s]
+11:45:10.064865 [info ]: Cached model count updated: 2 models (estimate)
+11:45:10.064889 [info ]: Cached model count updated: 2 models (accurate)
+11:45:10.064928 [info ]: Started scheduling
+11:45:10.064998 [info ]: Finished scheduling [  0.00s]
+11:45:10.109856 [info ]: Started loading project
+11:45:10.245304 [info ]: Started parsing
+11:45:10.281014 [info ]: Finished loading project [  0.17s]
+11:45:10.294746 [info ]: Finished parsing [  0.05s]
+11:45:10.320997 [info ]: Started loading project
+11:45:10.507594 [info ]: Started parsing
+11:45:10.576392 [info ]: Finished loading project [  0.26s]
+11:45:10.582567 [info ]: Finished parsing [  0.07s]
+11:45:10.583235 [info ]: Cached model count updated: 2 models (estimate)
+11:45:10.583254 [info ]: Cached model count updated: 2 models (accurate)
+11:45:10.583289 [info ]: Started scheduling
+11:45:10.583364 [info ]: Finished scheduling [  0.00s]
+11:45:11.048420 [info ]: Started loading project
+11:45:11.295496 [info ]: Started parsing
+11:45:11.347028 [info ]: Finished loading project [  0.30s]
+11:45:11.354450 [info ]: Finished parsing [  0.06s]
+11:45:11.354770 [info ]: Cached model count updated: 2 models (estimate)
+11:45:11.354785 [info ]: Cached model count updated: 2 models (accurate)
+11:45:11.354808 [info ]: Started scheduling
+11:45:11.354872 [info ]: Finished scheduling [  0.00s]
+11:54:13.902779 [info ]: Started loading project
+11:54:14.197975 [info ]: Finished loading project [  0.30s]
+11:54:14.319630 [info ]: Started loading project
+11:54:14.484767 [info ]: Started parsing
+11:54:14.597171 [info ]: Finished loading project [  0.28s]
+11:54:14.683872 [info ]: Finished parsing [  0.20s]
+11:54:14.729331 [info ]: Started loading project
+11:54:14.888914 [info ]: Started parsing
+11:54:14.927793 [info ]: Finished loading project [  0.20s]
+11:54:14.937627 [info ]: Finished parsing [  0.05s]
+11:54:14.943101 [info ]: Cached model count updated: 2 models (estimate)
+11:54:14.943706 [info ]: Cached model count updated: 2 models (accurate)
+11:54:14.945827 [info ]: Started scheduling
+11:54:14.951031 [info ]: Finished scheduling [  0.01s]
+11:59:31.020162 [info ]: Started loading project
+11:59:31.334615 [info ]: Finished loading project [  0.31s]
+11:59:31.411557 [info ]: Started loading project
+11:59:31.596510 [info ]: Started parsing
+11:59:31.707697 [info ]: Finished loading project [  0.30s]
+11:59:31.765687 [info ]: Finished parsing [  0.17s]
+11:59:31.814576 [info ]: Started loading project
+11:59:31.967266 [info ]: Started parsing
+11:59:32.045023 [info ]: Finished loading project [  0.23s]
+11:59:32.116309 [info ]: Finished parsing [  0.15s]
+11:59:32.121405 [info ]: Cached model count updated: 2 models (estimate)
+11:59:32.122178 [info ]: Cached model count updated: 2 models (accurate)
+11:59:32.125288 [info ]: Started scheduling
+11:59:32.133509 [info ]: Finished scheduling [  0.01s]
+07:27:42.963768 [info ]: Started loading project
+07:27:43.646909 [info ]: Finished loading project [  0.68s]
+07:27:43.942117 [info ]: Started loading project
+07:27:44.183164 [info ]: Started parsing
+07:27:44.302473 [info ]: Finished loading project [  0.36s]
+07:27:44.432243 [error]: dbt1005: Source 'pubg_raw.telemetry_logs' not found in project. Searched for 'telemetry_logs'
+  --> models\staging\stg_telemetry.sql:7:10
+07:27:44.446673 [info ]: Cached model count updated: 2 models (estimate)
+07:27:44.447072 [info ]: Cached model count updated: 2 models (accurate)
+07:27:44.451506 [info ]: Started scheduling
+07:27:44.457790 [info ]: Finished scheduling [  0.01s]
+07:27:44.895849 [info ]: Started building task graph
+07:27:44.902108 [info ]: Finished building task graph [  0.01s]
+07:27:44.913664 [info ]: Started rendering (2 nodes)
+07:27:44.917406 [info ]: Started model pubg_marts.stg_telemetry
+07:27:44.919434 [debug]: Started rendering model pubg_marts.stg_telemetry
+07:27:44.923850 [info ]: Finished parsing [  0.74s]
+07:27:44.940365 [debug]: Finished rendering [  0.02s] model pubg_marts.stg_telemetry [error]
+07:27:44.940672 [error]: dbt1501: Failed to render SQL not a key type: Source not found for source name: pubg_raw, table name: telemetry_logs
+(in models\staging\stg_telemetry.sql:7:10)
+  --> models\staging\stg_telemetry.sql:7:10
+07:27:44.941422 [info ]: Started analyzing (2 nodes)
+07:27:44.941472 [debug]: Started analyzing model pubg_marts.stg_telemetry
+07:27:44.941810 [info ]:     Failed [  0.02s] model pubg_marts.stg_telemetry (view)
+07:27:44.942227 [debug]: Finished analyzing [  0.00s] model pubg_marts.stg_telemetry [skipped]
+07:27:44.942309 [info ]: Started model pubg_marts.fct_match_stats
+07:27:44.942335 [debug]: Started rendering model pubg_marts.fct_match_stats
+07:27:44.942363 [debug]: Finished rendering [  0.00s] model pubg_marts.fct_match_stats [skipped]
+07:27:44.942376 [info ]: Finished rendering [  0.03s] (2 nodes, 1 skipped, 1 errors)
+07:27:44.942390 [debug]: Started analyzing model pubg_marts.fct_match_stats
+07:27:44.942407 [info ]:    Skipped [-------] model pubg_marts.fct_match_stats (table)
+07:27:44.942427 [debug]: Finished analyzing [  0.00s] model pubg_marts.fct_match_stats [skipped]
+07:27:44.942433 [info ]: Finished analyzing [  0.00s] (2 nodes, 2 skipped, 0 errors)
+07:27:44.957748 [info ]: Cached model count updated: 2 models (accurate)
+07:27:49.755803 [info ]: Started loading project
+07:27:49.849615 [info ]: Started parsing
+07:27:49.879466 [info ]: Finished loading project [  0.12s]
+07:27:49.883470 [error]: dbt1005: Source 'pubg_raw.telemetry_logs' not found in project. Searched for 'telemetry_logs'
+  --> models\staging\stg_telemetry.sql:7:10
+07:27:49.885254 [info ]: Cached model count updated: 2 models (estimate)
+07:27:49.885271 [info ]: Cached model count updated: 2 models (accurate)
+07:27:49.885316 [info ]: Started scheduling
+07:27:49.886611 [info ]: Finished scheduling [  0.00s]
+07:27:49.887228 [warn ]: dbt1000: The selection criterion '4294967295+fqn:source.pubg_analytics.pubg_raw.players+4294967295 4294967295+fqn:source.pubg_analytics.pubg_raw.player_season_stats+4294967295 4294967295+fqn:source.pubg_analytics.pubg_raw.telemetry+4294967295 4294967295+fqn:source.pubg_analytics.pubg_raw.matches+4294967295' does not match any enabled nodes
+07:27:49.887584 [warn ]: dbt1000: Nothing to do. Try checking your model configs and model specification args
+07:27:50.015205 [info ]: Started building task graph
+07:27:50.017030 [info ]: Finished building task graph [  0.00s]
+07:27:50.026076 [info ]: Finished parsing [  0.18s]
+07:27:50.050435 [info ]: Started loading project
+07:27:50.059615 [info ]: Started parsing
+07:27:50.076108 [info ]: Finished loading project [  0.03s]
+07:27:50.080627 [error]: dbt1005: Source 'pubg_raw.telemetry_logs' not found in project. Searched for 'telemetry_logs'
+  --> models\staging\stg_telemetry.sql:7:10
+07:27:50.081645 [info ]: Cached model count updated: 2 models (estimate)
+07:27:50.081657 [info ]: Cached model count updated: 2 models (accurate)
+07:27:50.081680 [info ]: Started scheduling
+07:27:50.081736 [info ]: Finished scheduling [  0.00s]
+07:27:50.081752 [warn ]: dbt1000: The selection criterion '4294967295+fqn:source.pubg_analytics.pubg_raw.player_season_stats+4294967295 4294967295+fqn:source.pubg_analytics.pubg_raw.players+4294967295 4294967295+fqn:source.pubg_analytics.pubg_raw.matches+4294967295 4294967295+fqn:source.pubg_analytics.pubg_raw.telemetry+4294967295' does not match any enabled nodes
+07:27:50.081758 [warn ]: dbt1000: Nothing to do. Try checking your model configs and model specification args
+07:27:50.203797 [info ]: Started building task graph
+07:27:50.203849 [info ]: Finished building task graph [  0.00s]
+07:27:50.204396 [debug]: Incremental compilation - 0 nodes selected: {}
+07:27:50.207582 [info ]: Cached model count updated: 2 models (accurate)
+07:27:50.209176 [info ]: Finished parsing [  0.15s]
+07:27:50.309936 [info ]: Started loading project
+07:27:50.314425 [info ]: Cached model count updated: 2 models (accurate)
+07:27:50.314409 [info ]: Finished loading project [  0.00s]
+07:28:35.373741 [info ]: Started loading project
+07:28:35.386448 [info ]: Started loading project
+07:28:35.389235 [info ]: Finished loading project [  0.02s]
+07:28:35.615680 [info ]: Started parsing
+07:28:35.689670 [info ]: Finished loading project [  0.30s]
+07:28:35.704382 [error]: dbt1005: Source 'pubg_raw.telemetry_logs' not found in project. Searched for 'telemetry_logs'
+  --> models\staging\stg_telemetry.sql:7:10
+07:28:35.704994 [info ]: Cached model count updated: 3 models (estimate)
+07:28:35.705010 [info ]: Cached model count updated: 3 models (accurate)
+07:28:35.705048 [info ]: Started scheduling
+07:28:35.705110 [info ]: Finished scheduling [  0.00s]
+07:28:35.842414 [info ]: Started building task graph
+07:28:35.842498 [info ]: Finished building task graph [  0.00s]
+07:28:35.842692 [info ]: Started rendering (2 nodes)
+07:28:35.842737 [info ]: Started model pubg_marts.stg_telemetry
+07:28:35.842767 [debug]: Started rendering model pubg_marts.stg_telemetry
+07:28:35.842908 [info ]: Finished parsing [  0.23s]
+07:28:35.844239 [debug]: Finished rendering [  0.00s] model pubg_marts.stg_telemetry [error]
+07:28:35.844357 [error]: dbt1501: Failed to render SQL not a key type: Source not found for source name: pubg_raw, table name: telemetry_logs
+(in models\staging\stg_telemetry.sql:7:10)
+  --> models\staging\stg_telemetry.sql:7:10
+07:28:35.844448 [info ]: Started analyzing (2 nodes)
+07:28:35.844475 [debug]: Started analyzing model pubg_marts.stg_telemetry
+07:28:35.844509 [info ]:     Failed [  0.00s] model pubg_marts.stg_telemetry (view)
+07:28:35.844538 [debug]: Finished analyzing [  0.00s] model pubg_marts.stg_telemetry [skipped]
+07:28:35.844557 [info ]: Started model pubg_marts.fct_match_stats
+07:28:35.844572 [debug]: Started rendering model pubg_marts.fct_match_stats
+07:28:35.844586 [debug]: Finished rendering [  0.00s] model pubg_marts.fct_match_stats [skipped]
+07:28:35.844596 [info ]: Finished rendering [  0.00s] (2 nodes, 1 skipped, 1 errors)
+07:28:35.844609 [debug]: Started analyzing model pubg_marts.fct_match_stats
+07:28:35.844623 [info ]:    Skipped [-------] model pubg_marts.fct_match_stats (table)
+07:28:35.844639 [debug]: Finished analyzing [  0.00s] model pubg_marts.fct_match_stats [skipped]
+07:28:35.844647 [info ]: Finished analyzing [  0.00s] (2 nodes, 2 skipped, 0 errors)
+07:28:35.848870 [info ]: Cached model count updated: 3 models (accurate)
+07:28:36.540557 [info ]: Started loading project
+07:28:36.553252 [info ]: Started parsing
+07:28:36.581295 [info ]: Finished loading project [  0.04s]
+07:28:36.597449 [error]: dbt1005: Source 'pubg_raw.telemetry_logs' not found in project. Searched for 'telemetry_logs'
+  --> models\staging\stg_telemetry.sql:7:10
+07:28:36.598603 [info ]: Cached model count updated: 3 models (estimate)
+07:28:36.598617 [info ]: Cached model count updated: 3 models (accurate)
+07:28:36.598653 [info ]: Started scheduling
+07:28:36.598711 [info ]: Finished scheduling [  0.00s]
+07:28:36.603692 [info ]: Finished parsing [  0.05s]
+07:28:36.813346 [info ]: Started loading project
+07:28:36.819034 [info ]: Started parsing
+07:28:36.836366 [info ]: Finished loading project [  0.02s]
+07:28:36.840888 [error]: dbt1005: Source 'pubg_raw.telemetry_logs' not found in project. Searched for 'telemetry_logs'
+  --> models\staging\stg_telemetry.sql:7:10
+07:28:36.842012 [info ]: Cached model count updated: 3 models (estimate)
+07:28:36.842026 [info ]: Cached model count updated: 3 models (accurate)
+07:28:36.842052 [info ]: Started scheduling
+07:28:36.842111 [info ]: Finished scheduling [  0.00s]
+07:28:36.843309 [info ]: Finished parsing [  0.02s]
+07:28:36.904217 [info ]: Started loading project
+07:28:36.909103 [info ]: Started parsing
+07:28:36.929475 [info ]: Finished loading project [  0.03s]
+07:28:36.933933 [error]: dbt1005: Source 'pubg_raw.telemetry_logs' not found in project. Searched for 'telemetry_logs'
+  --> models\staging\stg_telemetry.sql:7:10
+07:28:36.936666 [info ]: Cached model count updated: 3 models (estimate)
+07:28:36.936761 [info ]: Cached model count updated: 3 models (accurate)
+07:28:36.936839 [info ]: Started scheduling
+07:28:36.936948 [info ]: Finished scheduling [  0.00s]
+07:28:36.937850 [info ]: Finished parsing [  0.03s]
+07:28:37.001750 [info ]: Started loading project
+07:28:37.011971 [info ]: Started parsing
+07:28:37.049074 [info ]: Finished loading project [  0.05s]
+07:28:37.055104 [error]: dbt1005: Source 'pubg_raw.telemetry_logs' not found in project. Searched for 'telemetry_logs'
+  --> models\staging\stg_telemetry.sql:7:10
+07:28:37.056652 [info ]: Cached model count updated: 3 models (estimate)
+07:28:37.056673 [info ]: Cached model count updated: 3 models (accurate)
+07:28:37.056712 [info ]: Started scheduling
+07:28:37.056780 [info ]: Finished scheduling [  0.00s]
+07:28:37.058861 [info ]: Finished parsing [  0.05s]
+07:28:37.361251 [info ]: Started loading project
+07:28:37.366212 [info ]: Started parsing
+07:28:37.382939 [info ]: Finished loading project [  0.02s]
+07:28:37.388144 [error]: dbt1005: Source 'pubg_raw.telemetry_logs' not found in project. Searched for 'telemetry_logs'
+  --> models\staging\stg_telemetry.sql:7:10
+07:28:37.389461 [info ]: Cached model count updated: 3 models (estimate)
+07:28:37.389488 [info ]: Cached model count updated: 3 models (accurate)
+07:28:37.389552 [info ]: Started scheduling
+07:28:37.389667 [info ]: Finished scheduling [  0.00s]
+07:28:37.391004 [info ]: Finished parsing [  0.02s]
+07:29:15.247645 [info ]: Started loading project
+07:29:15.253171 [info ]: Started loading project
+07:29:15.254022 [info ]: Finished loading project [  0.01s]
+07:29:15.498630 [info ]: Started parsing
+07:29:15.572840 [info ]: Finished loading project [  0.32s]
+07:29:15.591579 [error]: dbt1005: Source 'pubg_raw.telemetry_logs' not found in project. Searched for 'telemetry_logs'
+  --> models\staging\stg_telemetry.sql:7:10
+07:29:15.593184 [info ]: Cached model count updated: 4 models (estimate)
+07:29:15.593344 [info ]: Cached model count updated: 4 models (accurate)
+07:29:15.593674 [info ]: Started scheduling
+07:29:15.593979 [info ]: Finished scheduling [  0.00s]
+07:29:15.597559 [info ]: Finished parsing [  0.10s]
+07:29:16.111442 [info ]: Started loading project
+07:29:16.124171 [info ]: Started loading project
+07:29:16.127087 [info ]: Finished loading project [  0.02s]
+07:29:16.313421 [info ]: Finished loading project [  0.19s]
+07:29:16.348584 [info ]: Started loading project
+07:29:16.354571 [info ]: Started loading project
+07:29:16.355319 [info ]: Finished loading project [  0.01s]
+07:29:16.508656 [info ]: Started parsing
+07:29:16.557835 [info ]: Finished loading project [  0.20s]
+07:29:16.573255 [error]: dbt1005: Source 'pubg_raw.telemetry_logs' not found in project. Searched for 'telemetry_logs'
+  --> models\staging\stg_telemetry.sql:7:10
+07:29:16.573722 [info ]: Cached model count updated: 4 models (estimate)
+07:29:16.573737 [info ]: Cached model count updated: 4 models (accurate)
+07:29:16.573778 [info ]: Started scheduling
+07:29:16.573865 [info ]: Finished scheduling [  0.00s]
+07:29:16.575437 [info ]: Finished parsing [  0.07s]
+07:29:17.012466 [info ]: Started loading project
+07:29:17.018131 [info ]: Started loading project
+07:29:17.019389 [info ]: Finished loading project [  0.01s]
+07:29:17.249699 [info ]: Started parsing
+07:29:17.405930 [info ]: Finished loading project [  0.39s]
+07:29:17.430634 [error]: dbt1005: Source 'pubg_raw.telemetry_logs' not found in project. Searched for 'telemetry_logs'
+  --> models\staging\stg_telemetry.sql:7:10
+07:29:17.431373 [info ]: Cached model count updated: 4 models (estimate)
+07:29:17.431403 [info ]: Cached model count updated: 4 models (accurate)
+07:29:17.431467 [info ]: Started scheduling
+07:29:17.431577 [info ]: Finished scheduling [  0.00s]
+07:29:17.438685 [info ]: Finished parsing [  0.19s]
+07:30:18.740438 [info ]: Started loading project
+07:30:18.746887 [info ]: Started loading project
+07:30:18.747699 [info ]: Finished loading project [  0.01s]
+07:30:18.907983 [info ]: Started parsing
+07:30:18.950719 [info ]: Finished loading project [  0.20s]
+07:30:18.970473 [error]: dbt1005: Source 'pubg_raw.telemetry_logs' not found in project. Searched for 'telemetry_logs'
+  --> models\staging\stg_telemetry.sql:7:10
+07:30:18.975163 [info ]: Finished parsing [  0.07s]
+07:30:19.004663 [info ]: Started loading project
+07:30:19.012369 [info ]: Started loading project
+07:30:19.013111 [info ]: Finished loading project [  0.01s]
+07:30:19.175730 [info ]: Finished loading project [  0.16s]
+07:30:19.201132 [info ]: Started loading project
+07:30:19.206844 [info ]: Started loading project
+07:30:19.207721 [info ]: Finished loading project [  0.01s]
+07:30:19.379121 [info ]: Started parsing
+07:30:19.493447 [info ]: Finished loading project [  0.29s]
+07:30:19.514382 [error]: dbt1005: Source 'pubg_raw.telemetry_logs' not found in project. Searched for 'telemetry_logs'
+  --> models\staging\stg_telemetry.sql:7:10
+07:30:19.514944 [info ]: Cached model count updated: 4 models (estimate)
+07:30:19.514962 [info ]: Cached model count updated: 4 models (accurate)
+07:30:19.514999 [info ]: Started scheduling
+07:30:19.515091 [info ]: Finished scheduling [  0.00s]
+07:30:19.516999 [info ]: Finished parsing [  0.14s]
+07:30:20.009998 [info ]: Started loading project
+07:30:20.016233 [info ]: Started loading project
+07:30:20.017575 [info ]: Finished loading project [  0.01s]
+07:30:20.177039 [info ]: Started parsing
+07:30:20.234542 [info ]: Finished loading project [  0.22s]
+07:30:20.247056 [error]: dbt1005: Source 'pubg_raw.telemetry_logs' not found in project. Searched for 'telemetry_logs'
+  --> models\staging\stg_telemetry.sql:7:10
+07:30:20.247586 [info ]: Cached model count updated: 4 models (estimate)
+07:30:20.247604 [info ]: Cached model count updated: 4 models (accurate)
+07:30:20.247644 [info ]: Started scheduling
+07:30:20.247733 [info ]: Finished scheduling [  0.00s]
+07:30:20.250850 [info ]: Finished parsing [  0.07s]
+07:31:16.721632 [info ]: Started loading project
+07:31:16.731223 [info ]: Started loading project
+07:31:16.732548 [info ]: Finished loading project [  0.01s]
+07:31:16.941306 [info ]: Finished loading project [  0.21s]
+07:31:16.964672 [info ]: Started loading project
+07:31:16.977950 [info ]: Started loading project
+07:31:16.978548 [info ]: Finished loading project [  0.01s]
+07:31:17.099067 [info ]: Finished loading project [  0.12s]
+07:31:17.129663 [info ]: Started loading project
+07:31:17.137566 [info ]: Started loading project
+07:31:17.138575 [info ]: Finished loading project [  0.01s]
+07:31:17.330667 [info ]: Started parsing
+07:31:17.373421 [info ]: Finished loading project [  0.24s]
+07:31:17.386073 [info ]: Finished parsing [  0.06s]
+07:31:17.386466 [info ]: Cached model count updated: 4 models (estimate)
+07:31:17.386483 [info ]: Cached model count updated: 4 models (accurate)
+07:31:17.386541 [info ]: Started scheduling
+07:31:17.386620 [info ]: Finished scheduling [  0.00s]
+07:31:17.781159 [info ]: Started loading project
+07:31:17.797066 [info ]: Started loading project
+07:31:17.797975 [info ]: Finished loading project [  0.02s]
+07:31:18.414820 [info ]: Started parsing
+07:31:18.478035 [info ]: Finished loading project [  0.68s]
+07:31:18.487873 [info ]: Finished parsing [  0.07s]
+07:31:18.488268 [info ]: Cached model count updated: 4 models (estimate)
+07:31:18.488283 [info ]: Cached model count updated: 4 models (accurate)
+07:31:18.488326 [info ]: Started scheduling
+07:31:18.488387 [info ]: Finished scheduling [  0.00s]
+07:33:02.379193 [info ]: Started loading project
+07:33:02.385569 [info ]: Started loading project
+07:33:02.386168 [info ]: Finished loading project [  0.01s]
+07:33:02.509579 [info ]: Started parsing
+07:33:02.550497 [info ]: Finished loading project [  0.16s]
+07:33:02.574906 [info ]: Finished parsing [  0.07s]
+07:33:02.575295 [info ]: Cached model count updated: 4 models (estimate)
+07:33:02.575313 [info ]: Cached model count updated: 4 models (accurate)
+07:33:02.575340 [info ]: Started scheduling
+07:33:02.575423 [info ]: Finished scheduling [  0.00s]
+07:33:02.653992 [info ]: Started loading project
+07:33:02.660880 [info ]: Started loading project
+07:33:02.661497 [info ]: Finished loading project [  0.01s]
+07:33:02.826148 [info ]: Started parsing
+07:33:02.867318 [info ]: Finished loading project [  0.21s]
+07:33:02.876226 [info ]: Finished parsing [  0.05s]
+07:33:02.876606 [info ]: Cached model count updated: 4 models (estimate)
+07:33:02.876620 [info ]: Cached model count updated: 4 models (accurate)
+07:33:02.876653 [info ]: Started scheduling
+07:33:02.876715 [info ]: Finished scheduling [  0.00s]
+07:33:02.935467 [info ]: Started loading project
+07:33:02.943771 [info ]: Started loading project
+07:33:02.944523 [info ]: Finished loading project [  0.01s]
+07:33:03.266118 [info ]: Started parsing
+07:33:03.362735 [info ]: Finished loading project [  0.42s]
+07:33:03.388502 [info ]: Finished parsing [  0.12s]
+07:33:03.389228 [info ]: Cached model count updated: 4 models (estimate)
+07:33:03.389264 [info ]: Cached model count updated: 4 models (accurate)
+07:33:03.389351 [info ]: Started scheduling
+07:33:03.389497 [info ]: Finished scheduling [  0.00s]
+07:33:21.903717 [info ]: Started loading project
+07:33:21.908366 [info ]: Started loading project
+07:33:21.909065 [info ]: Finished loading project [  0.01s]
+07:33:22.042508 [info ]: Started parsing
+07:33:22.074963 [info ]: Finished loading project [  0.17s]
+07:33:22.092108 [info ]: Finished parsing [  0.05s]
+07:33:22.092484 [info ]: Cached model count updated: 4 models (estimate)
+07:33:22.092497 [info ]: Cached model count updated: 4 models (accurate)
+07:33:22.092561 [info ]: Started scheduling
+07:33:22.092618 [info ]: Finished scheduling [  0.00s]
+07:33:22.145521 [info ]: Started loading project
+07:33:22.151353 [info ]: Started loading project
+07:33:22.151955 [info ]: Finished loading project [  0.01s]
+07:33:22.263451 [info ]: Finished loading project [  0.11s]
+07:33:22.293870 [info ]: Started loading project
+07:33:22.299454 [info ]: Started loading project
+07:33:22.300249 [info ]: Finished loading project [  0.01s]
+07:33:22.408370 [info ]: Finished loading project [  0.11s]
+07:33:22.433704 [info ]: Started loading project
+07:33:22.437229 [info ]: Started loading project
+07:33:22.438243 [info ]: Finished loading project [  0.00s]
+07:33:22.575206 [info ]: Started parsing
+07:33:22.617762 [info ]: Finished loading project [  0.18s]
+07:33:22.626475 [info ]: Finished parsing [  0.05s]
+07:33:22.626800 [info ]: Cached model count updated: 4 models (estimate)
+07:33:22.626814 [info ]: Cached model count updated: 4 models (accurate)
+07:33:22.626832 [info ]: Started scheduling
+07:33:22.626883 [info ]: Finished scheduling [  0.00s]
+07:33:23.031182 [info ]: Started loading project
+07:33:23.043463 [info ]: Started loading project
+07:33:23.044226 [info ]: Finished loading project [  0.01s]
+07:33:23.359073 [info ]: Started parsing
+07:33:23.443010 [info ]: Finished loading project [  0.40s]
+07:33:23.462305 [info ]: Finished parsing [  0.10s]
+07:33:23.463349 [info ]: Cached model count updated: 4 models (estimate)
+07:33:23.463578 [info ]: Cached model count updated: 4 models (accurate)
+07:33:23.463932 [info ]: Started scheduling
+07:33:23.464639 [info ]: Finished scheduling [  0.00s]
+08:26:34.211699 [info ]: Started loading project
+08:26:34.338925 [info ]: Started loading project
+08:26:34.343266 [info ]: Finished loading project [  0.13s]
+08:26:34.851984 [info ]: Started parsing
+08:26:34.945875 [info ]: Finished loading project [  0.61s]
+08:26:35.002136 [info ]: Finished parsing [  0.15s]
+08:26:35.004211 [info ]: Cached model count updated: 5 models (estimate)
+08:26:35.004719 [info ]: Cached model count updated: 5 models (accurate)
+08:26:35.006969 [info ]: Started scheduling
+08:26:35.012364 [info ]: Finished scheduling [  0.01s]
+08:26:37.223527 [info ]: Started loading project
+08:26:37.234764 [info ]: Started loading project
+08:26:37.235423 [info ]: Finished loading project [  0.01s]
+08:26:37.396011 [info ]: Started parsing
+08:26:37.445857 [info ]: Finished loading project [  0.21s]
+08:26:37.474252 [info ]: Finished parsing [  0.08s]
+08:26:37.475239 [info ]: Cached model count updated: 5 models (estimate)
+08:26:37.475278 [info ]: Cached model count updated: 5 models (accurate)
+08:26:37.475340 [info ]: Started scheduling
+08:26:37.475480 [info ]: Finished scheduling [  0.00s]
+08:26:37.543271 [info ]: Started loading project
+08:26:37.547380 [info ]: Started loading project
+08:26:37.547996 [info ]: Finished loading project [  0.00s]
+08:26:37.776880 [info ]: Started parsing
+08:26:37.817930 [info ]: Finished loading project [  0.27s]
+08:26:37.828863 [info ]: Finished parsing [  0.05s]
+08:26:37.829271 [info ]: Cached model count updated: 5 models (estimate)
+08:26:37.829284 [info ]: Cached model count updated: 5 models (accurate)
+08:26:37.829327 [info ]: Started scheduling
+08:26:37.829390 [info ]: Finished scheduling [  0.00s]
+08:26:37.885347 [info ]: Started loading project
+08:26:37.891630 [info ]: Started loading project
+08:26:37.892450 [info ]: Finished loading project [  0.01s]
+08:26:38.122109 [info ]: Started parsing
+08:26:38.162543 [info ]: Finished loading project [  0.27s]
+08:26:38.174957 [info ]: Finished parsing [  0.05s]
+08:26:38.175082 [info ]: Cached model count updated: 5 models (estimate)
+08:26:38.175105 [info ]: Cached model count updated: 5 models (accurate)
+08:26:38.175159 [info ]: Started scheduling
+08:26:38.175283 [info ]: Finished scheduling [  0.00s]
+08:26:38.689194 [info ]: Started loading project
+08:26:38.718697 [info ]: Started loading project
+08:26:38.719625 [info ]: Finished loading project [  0.03s]
+08:26:39.227218 [info ]: Finished loading project [  0.51s]
+08:26:39.300526 [info ]: Started loading project
+08:26:39.329586 [info ]: Started loading project
+08:26:39.331471 [info ]: Finished loading project [  0.03s]
+08:26:39.988887 [info ]: Started parsing
+08:26:40.055565 [info ]: Finished loading project [  0.73s]
+08:26:40.069786 [info ]: Finished parsing [  0.08s]
+08:26:40.070245 [info ]: Cached model count updated: 5 models (estimate)
+08:26:40.070265 [info ]: Cached model count updated: 5 models (accurate)
+08:26:40.070304 [info ]: Started scheduling
+08:26:40.070380 [info ]: Finished scheduling [  0.00s]
+08:26:45.630373 [info ]: Started loading project
+08:26:45.634342 [info ]: Started loading project
+08:26:45.634971 [info ]: Finished loading project [  0.00s]
+08:26:45.759656 [info ]: Started parsing
+08:26:45.803172 [info ]: Finished loading project [  0.17s]
+08:26:45.826883 [info ]: Finished parsing [  0.07s]
+08:26:45.827293 [info ]: Cached model count updated: 5 models (estimate)
+08:26:45.827311 [info ]: Cached model count updated: 5 models (accurate)
+08:26:45.827354 [info ]: Started scheduling
+08:26:45.827440 [info ]: Finished scheduling [  0.00s]
+08:26:45.877839 [info ]: Started loading project
+08:26:45.881377 [info ]: Started loading project
+08:26:45.881887 [info ]: Finished loading project [  0.00s]
+08:26:46.026567 [info ]: Started parsing
+08:26:46.059702 [info ]: Finished loading project [  0.18s]
+08:26:46.067892 [info ]: Finished parsing [  0.04s]
+08:26:46.068289 [info ]: Cached model count updated: 5 models (estimate)
+08:26:46.068302 [info ]: Cached model count updated: 5 models (accurate)
+08:26:46.068324 [info ]: Started scheduling
+08:26:46.068383 [info ]: Finished scheduling [  0.00s]
+08:26:46.456799 [info ]: Started loading project
+08:26:46.463842 [info ]: Started loading project
+08:26:46.464616 [info ]: Finished loading project [  0.01s]
+08:26:46.632227 [info ]: Started parsing
+08:26:46.726086 [info ]: Finished loading project [  0.26s]
+08:26:46.738365 [info ]: Finished parsing [  0.11s]
+08:26:46.738806 [info ]: Cached model count updated: 5 models (estimate)
+08:26:46.738823 [info ]: Cached model count updated: 5 models (accurate)
+08:26:46.738852 [info ]: Started scheduling
+08:26:46.738918 [info ]: Finished scheduling [  0.00s]
+08:27:37.750670 [info ]: Started loading project
+08:27:37.754110 [info ]: Started loading project
+08:27:37.754636 [info ]: Finished loading project [  0.00s]
+08:27:37.880913 [info ]: Started parsing
+08:27:37.919880 [info ]: Finished loading project [  0.17s]
+08:27:37.934325 [info ]: Finished parsing [  0.05s]
+08:27:37.935215 [info ]: Cached model count updated: 5 models (estimate)
+08:27:37.935237 [info ]: Cached model count updated: 5 models (accurate)
+08:27:37.935287 [info ]: Started scheduling
+08:27:37.935379 [info ]: Finished scheduling [  0.00s]
+08:27:39.920640 [info ]: Started loading project
+08:27:39.925145 [info ]: Started loading project
+08:27:39.925815 [info ]: Finished loading project [  0.01s]
+08:27:40.067919 [info ]: Started parsing
+08:27:40.102625 [info ]: Finished loading project [  0.18s]
+08:27:40.122016 [info ]: Finished parsing [  0.05s]
+08:27:40.122398 [info ]: Cached model count updated: 5 models (estimate)
+08:27:40.122412 [info ]: Cached model count updated: 5 models (accurate)
+08:27:40.122436 [info ]: Started scheduling
+08:27:40.122497 [info ]: Finished scheduling [  0.00s]
+08:27:40.152511 [info ]: Started loading project
+08:27:40.155760 [info ]: Started loading project
+08:27:40.156946 [info ]: Finished loading project [  0.00s]
+08:27:40.265808 [info ]: Finished loading project [  0.11s]
+08:27:40.291676 [info ]: Started loading project
+08:27:40.296544 [info ]: Started loading project
+08:27:40.297223 [info ]: Finished loading project [  0.01s]
+08:27:40.416072 [info ]: Finished loading project [  0.12s]
+08:27:40.435372 [info ]: Started loading project
+08:27:40.439929 [info ]: Started loading project
+08:27:40.441117 [info ]: Finished loading project [  0.01s]
+08:27:40.573498 [info ]: Started parsing
+08:27:40.621903 [info ]: Finished loading project [  0.18s]
+08:27:40.634500 [info ]: Finished parsing [  0.06s]
+08:27:40.634961 [info ]: Cached model count updated: 5 models (estimate)
+08:27:40.634982 [info ]: Cached model count updated: 5 models (accurate)
+08:27:40.635022 [info ]: Started scheduling
+08:27:40.635102 [info ]: Finished scheduling [  0.00s]
+08:27:41.140148 [info ]: Started loading project
+08:27:41.145822 [info ]: Started loading project
+08:27:41.146638 [info ]: Finished loading project [  0.01s]
+08:27:41.282666 [info ]: Started parsing
+08:27:41.320233 [info ]: Finished loading project [  0.17s]
+08:27:41.328660 [info ]: Finished parsing [  0.05s]
+08:27:41.329062 [info ]: Cached model count updated: 5 models (estimate)
+08:27:41.329077 [info ]: Cached model count updated: 5 models (accurate)
+08:27:41.329100 [info ]: Started scheduling
+08:27:41.329164 [info ]: Finished scheduling [  0.00s]
+08:28:47.648956 [info ]: Started loading project
+08:28:47.725729 [info ]: Started loading project
+08:28:47.727238 [info ]: Finished loading project [  0.08s]
+08:28:47.887931 [info ]: Started parsing
+08:28:47.953338 [info ]: Finished parsing [  0.07s]
+08:28:47.954122 [info ]: Finished loading project [  0.23s]
+08:28:47.989660 [info ]: Started loading project
+08:28:47.993196 [info ]: Started loading project
+08:28:47.993726 [info ]: Finished loading project [  0.00s]
+08:28:48.137252 [info ]: Started parsing
+08:28:48.193780 [info ]: Finished loading project [  0.20s]
+08:28:48.276765 [info ]: Finished parsing [  0.14s]
+08:28:48.283301 [info ]: Cached model count updated: 5 models (estimate)
+08:28:48.284162 [info ]: Cached model count updated: 5 models (accurate)
+08:28:48.287108 [info ]: Started scheduling
+08:28:48.292802 [info ]: Finished scheduling [  0.01s]
+08:29:04.455126 [info ]: Started loading project
+08:29:04.467292 [info ]: Started loading project
+08:29:04.468231 [info ]: Finished loading project [  0.01s]
+08:29:04.618739 [info ]: Started parsing
+08:29:04.662508 [info ]: Finished loading project [  0.20s]
+08:29:04.677243 [info ]: Finished parsing [  0.06s]
+08:29:04.677785 [info ]: Cached model count updated: 5 models (estimate)
+08:29:04.677808 [info ]: Cached model count updated: 5 models (accurate)
+08:29:04.677874 [info ]: Started scheduling
+08:29:04.677982 [info ]: Finished scheduling [  0.00s]
+08:29:05.025388 [info ]: Started loading project
+08:29:05.028530 [info ]: Started loading project
+08:29:05.029065 [info ]: Finished loading project [  0.00s]
+08:29:05.185863 [info ]: Started parsing
+08:29:05.252979 [info ]: Finished loading project [  0.22s]
+08:29:05.270455 [info ]: Finished parsing [  0.08s]
+08:29:05.270981 [info ]: Cached model count updated: 5 models (estimate)
+08:29:05.270998 [info ]: Cached model count updated: 5 models (accurate)
+08:29:05.271029 [info ]: Started scheduling
+08:29:05.271141 [info ]: Finished scheduling [  0.00s]
+08:29:05.624766 [info ]: Started loading project
+08:29:05.630415 [info ]: Started loading project
+08:29:05.631420 [info ]: Finished loading project [  0.01s]
+08:29:05.804426 [info ]: Started parsing
+08:29:05.849139 [info ]: Finished loading project [  0.22s]
+08:29:05.857620 [info ]: Finished parsing [  0.05s]
+08:29:05.858135 [info ]: Cached model count updated: 5 models (estimate)
+08:29:05.858161 [info ]: Cached model count updated: 5 models (accurate)
+08:29:05.858205 [info ]: Started scheduling
+08:29:05.858278 [info ]: Finished scheduling [  0.00s]
+08:29:48.071310 [info ]: Started loading project
+08:29:48.077988 [info ]: Started loading project
+08:29:48.078722 [info ]: Finished loading project [  0.01s]
+08:29:48.253410 [info ]: Started parsing
+08:29:48.295964 [info ]: Finished loading project [  0.22s]
+08:29:48.332830 [info ]: Finished parsing [  0.08s]
+08:29:48.333404 [info ]: Cached model count updated: 5 models (estimate)
+08:29:48.333426 [info ]: Cached model count updated: 5 models (accurate)
+08:29:48.333467 [info ]: Started scheduling
+08:29:48.333594 [info ]: Finished scheduling [  0.00s]
+08:29:48.401849 [info ]: Started loading project
+08:29:48.409677 [info ]: Started loading project
+08:29:48.410552 [info ]: Finished loading project [  0.01s]
+08:29:48.659399 [info ]: Started parsing
+08:29:48.687040 [info ]: Finished parsing [  0.03s]
+08:29:48.687352 [info ]: Finished loading project [  0.28s]
+08:29:48.736166 [info ]: Started loading project
+08:29:48.744877 [info ]: Started loading project
+08:29:48.745780 [info ]: Finished loading project [  0.01s]
+08:29:48.941701 [info ]: Started parsing
+08:29:48.993182 [info ]: Finished loading project [  0.25s]
+08:29:49.002126 [info ]: Finished parsing [  0.06s]
+08:29:49.002732 [info ]: Cached model count updated: 5 models (estimate)
+08:29:49.002753 [info ]: Cached model count updated: 5 models (accurate)
+08:29:49.002797 [info ]: Started scheduling
+08:29:49.002867 [info ]: Finished scheduling [  0.00s]
+08:30:35.526355 [info ]: Started loading project
+08:30:35.532515 [info ]: Started loading project
+08:30:35.533173 [info ]: Finished loading project [  0.01s]
+08:30:35.665251 [info ]: Started parsing
+08:30:35.709074 [info ]: Finished loading project [  0.18s]
+08:30:35.736793 [info ]: Finished parsing [  0.07s]
+08:30:35.737835 [info ]: Cached model count updated: 5 models (estimate)
+08:30:35.737892 [info ]: Cached model count updated: 5 models (accurate)
+08:30:35.737979 [info ]: Started scheduling
+08:30:35.738161 [info ]: Finished scheduling [  0.00s]
+08:30:36.089237 [info ]: Started loading project
+08:30:36.093862 [info ]: Started loading project
+08:30:36.094457 [info ]: Finished loading project [  0.01s]
+08:30:36.227378 [info ]: Started parsing
+08:30:36.279639 [info ]: Finished loading project [  0.19s]
+08:30:36.286194 [info ]: Finished parsing [  0.06s]
+08:30:36.287412 [info ]: Cached model count updated: 5 models (estimate)
+08:30:36.287446 [info ]: Cached model count updated: 5 models (accurate)
+08:30:36.287494 [info ]: Started scheduling
+08:30:36.287881 [info ]: Finished scheduling [  0.00s]
+08:30:40.867595 [info ]: Started loading project
+08:30:40.871946 [info ]: Started loading project
+08:30:40.872605 [info ]: Finished loading project [  0.01s]
+08:30:41.033582 [info ]: Started parsing
+08:30:41.067704 [info ]: Finished loading project [  0.20s]
+08:30:41.087372 [info ]: Finished parsing [  0.05s]
+08:30:41.087839 [info ]: Cached model count updated: 5 models (estimate)
+08:30:41.087854 [info ]: Cached model count updated: 5 models (accurate)
+08:30:41.087878 [info ]: Started scheduling
+08:30:41.087940 [info ]: Finished scheduling [  0.00s]
+08:30:41.437279 [info ]: Started loading project
+08:30:41.442417 [info ]: Started loading project
+08:30:41.443090 [info ]: Finished loading project [  0.01s]
+08:30:41.581144 [info ]: Started parsing
+08:30:41.616631 [info ]: Finished loading project [  0.17s]
+08:30:41.623934 [info ]: Finished parsing [  0.04s]
+08:30:41.624313 [info ]: Cached model count updated: 5 models (estimate)
+08:30:41.624326 [info ]: Cached model count updated: 5 models (accurate)
+08:30:41.624346 [info ]: Started scheduling
+08:30:41.624403 [info ]: Finished scheduling [  0.00s]
+08:30:41.950534 [info ]: Started loading project
+08:30:41.955177 [info ]: Started loading project
+08:30:41.955936 [info ]: Finished loading project [  0.01s]
+08:30:42.076429 [info ]: Started parsing
+08:30:42.115542 [info ]: Finished loading project [  0.16s]
+08:30:42.135995 [info ]: Finished parsing [  0.06s]
+08:30:42.136756 [info ]: Cached model count updated: 5 models (estimate)
+08:30:42.136790 [info ]: Cached model count updated: 5 models (accurate)
+08:30:42.136843 [info ]: Started scheduling
+08:30:42.136979 [info ]: Finished scheduling [  0.00s]
+08:30:42.513125 [info ]: Started loading project
+08:30:42.517645 [info ]: Started loading project
+08:30:42.518804 [info ]: Finished loading project [  0.01s]
+08:30:42.639022 [info ]: Started parsing
+08:30:42.677241 [info ]: Finished loading project [  0.16s]
+08:30:42.686477 [info ]: Finished parsing [  0.05s]
+08:30:42.687101 [info ]: Cached model count updated: 5 models (estimate)
+08:30:42.687126 [info ]: Cached model count updated: 5 models (accurate)
+08:30:42.687211 [info ]: Started scheduling
+08:30:42.687295 [info ]: Finished scheduling [  0.00s]
+08:30:47.265029 [info ]: Started loading project
+08:30:47.271525 [info ]: Started loading project
+08:30:47.272201 [info ]: Finished loading project [  0.01s]
+08:30:47.385242 [info ]: Started parsing
+08:30:47.420726 [info ]: Finished loading project [  0.15s]
+08:30:47.437315 [info ]: Finished parsing [  0.05s]
+08:30:47.437760 [info ]: Cached model count updated: 5 models (estimate)
+08:30:47.437776 [info ]: Cached model count updated: 5 models (accurate)
+08:30:47.437807 [info ]: Started scheduling
+08:30:47.437883 [info ]: Finished scheduling [  0.00s]
+08:30:47.809041 [info ]: Started loading project
+08:30:47.813722 [info ]: Started loading project
+08:30:47.814598 [info ]: Finished loading project [  0.01s]
+08:30:47.973787 [info ]: Started parsing
+08:30:48.013430 [info ]: Finished loading project [  0.20s]
+08:30:48.023044 [info ]: Finished parsing [  0.05s]
+08:30:48.023773 [info ]: Cached model count updated: 5 models (estimate)
+08:30:48.023807 [info ]: Cached model count updated: 5 models (accurate)
+08:30:48.023858 [info ]: Started scheduling
+08:30:48.023956 [info ]: Finished scheduling [  0.00s]
+08:31:03.842808 [info ]: Started loading project
+08:31:03.847781 [info ]: Started loading project
+08:31:03.851022 [info ]: Finished loading project [  0.01s]
+08:31:03.966344 [info ]: Started parsing
+08:31:04.005168 [info ]: Finished loading project [  0.16s]
+08:31:04.025594 [info ]: Finished parsing [  0.06s]
+08:31:04.026039 [info ]: Cached model count updated: 5 models (estimate)
+08:31:04.026053 [info ]: Cached model count updated: 5 models (accurate)
+08:31:04.026081 [info ]: Started scheduling
+08:31:04.026140 [info ]: Finished scheduling [  0.00s]
+08:31:04.392312 [info ]: Started loading project
+08:31:04.397152 [info ]: Started loading project
+08:31:04.397728 [info ]: Finished loading project [  0.01s]
+08:31:04.528528 [info ]: Started parsing
+08:31:04.563521 [info ]: Finished loading project [  0.17s]
+08:31:04.570746 [info ]: Finished parsing [  0.04s]
+08:31:04.571189 [info ]: Cached model count updated: 5 models (estimate)
+08:31:04.571205 [info ]: Cached model count updated: 5 models (accurate)
+08:31:04.571232 [info ]: Started scheduling
+08:31:04.571298 [info ]: Finished scheduling [  0.00s]
+08:31:07.393525 [info ]: Started loading project
+08:31:07.405784 [info ]: Started loading project
+08:31:07.407054 [info ]: Finished loading project [  0.01s]
+08:31:07.597388 [info ]: Started parsing
+08:31:07.621971 [info ]: Finished parsing [  0.02s]
+08:31:07.622279 [info ]: Finished loading project [  0.22s]
+08:31:07.650674 [info ]: Started loading project
+08:31:07.658115 [info ]: Started loading project
+08:31:07.659077 [info ]: Finished loading project [  0.01s]
+08:31:07.859168 [info ]: Started parsing
+08:31:07.899978 [info ]: Finished loading project [  0.24s]
+08:31:07.914701 [info ]: Finished parsing [  0.06s]
+08:31:07.915356 [info ]: Cached model count updated: 5 models (estimate)
+08:31:07.915377 [info ]: Cached model count updated: 5 models (accurate)
+08:31:07.915439 [info ]: Started scheduling
+08:31:07.915563 [info ]: Finished scheduling [  0.00s]
+08:31:07.955745 [info ]: Started loading project
+08:31:07.961458 [info ]: Started loading project
+08:31:07.962700 [info ]: Finished loading project [  0.01s]
+08:31:08.157999 [info ]: Started parsing
+08:31:08.218070 [info ]: Finished loading project [  0.26s]
+08:31:08.234827 [info ]: Finished parsing [  0.08s]
+08:31:08.237017 [info ]: Cached model count updated: 5 models (estimate)
+08:31:08.237050 [info ]: Cached model count updated: 5 models (accurate)
+08:31:08.237106 [info ]: Started scheduling
+08:31:08.237216 [info ]: Finished scheduling [  0.00s]
+08:31:08.591231 [info ]: Started loading project
+08:31:08.606892 [info ]: Started loading project
+08:31:08.607730 [info ]: Finished loading project [  0.02s]
+08:31:08.871977 [info ]: Started parsing
+08:31:08.937535 [info ]: Finished loading project [  0.33s]
+08:31:08.950130 [info ]: Finished parsing [  0.08s]
+08:31:08.950724 [info ]: Cached model count updated: 5 models (estimate)
+08:31:08.950752 [info ]: Cached model count updated: 5 models (accurate)
+08:31:08.950794 [info ]: Started scheduling
+08:31:08.950910 [info ]: Finished scheduling [  0.00s]
+08:31:24.700812 [info ]: Started loading project
+08:31:24.705086 [info ]: Started loading project
+08:31:24.705752 [info ]: Finished loading project [  0.00s]
+08:31:24.848935 [info ]: Started parsing
+08:31:24.891404 [info ]: Finished loading project [  0.19s]
+08:31:24.922272 [info ]: Finished parsing [  0.07s]
+08:31:24.922766 [info ]: Cached model count updated: 5 models (estimate)
+08:31:24.922787 [info ]: Cached model count updated: 5 models (accurate)
+08:31:24.922829 [info ]: Started scheduling
+08:31:24.922927 [info ]: Finished scheduling [  0.00s]
+08:31:25.320096 [info ]: Started loading project
+08:31:25.323949 [info ]: Started loading project
+08:31:25.324570 [info ]: Finished loading project [  0.00s]
+08:31:25.499432 [info ]: Started parsing
+08:31:25.535191 [info ]: Finished loading project [  0.21s]
+08:31:25.546104 [info ]: Finished parsing [  0.05s]
+08:31:25.546523 [info ]: Cached model count updated: 5 models (estimate)
+08:31:25.546539 [info ]: Cached model count updated: 5 models (accurate)
+08:31:25.546569 [info ]: Started scheduling
+08:31:25.546645 [info ]: Finished scheduling [  0.00s]
+08:31:26.569515 [info ]: Started loading project
+08:31:26.574269 [info ]: Started loading project
+08:31:26.574842 [info ]: Finished loading project [  0.01s]
+08:31:26.702984 [info ]: Started parsing
+08:31:26.738344 [info ]: Finished loading project [  0.16s]
+08:31:26.756959 [info ]: Finished parsing [  0.05s]
+08:31:26.757344 [info ]: Cached model count updated: 5 models (estimate)
+08:31:26.757358 [info ]: Cached model count updated: 5 models (accurate)
+08:31:26.757380 [info ]: Started scheduling
+08:31:26.757438 [info ]: Finished scheduling [  0.00s]
+08:31:27.146571 [info ]: Started loading project
+08:31:27.150137 [info ]: Started loading project
+08:31:27.150688 [info ]: Finished loading project [  0.00s]
+08:31:27.315239 [info ]: Started parsing
+08:31:27.358119 [info ]: Finished loading project [  0.21s]
+08:31:27.371515 [info ]: Finished parsing [  0.06s]
+08:31:27.371973 [info ]: Cached model count updated: 5 models (estimate)
+08:31:27.371991 [info ]: Cached model count updated: 5 models (accurate)
+08:31:27.372027 [info ]: Started scheduling
+08:31:27.372094 [info ]: Finished scheduling [  0.00s]
+08:31:28.417431 [info ]: Started loading project
+08:31:28.421651 [info ]: Started loading project
+08:31:28.422290 [info ]: Finished loading project [  0.00s]
+08:31:28.531153 [info ]: Started parsing
+08:31:28.567770 [info ]: Finished loading project [  0.15s]
+08:31:28.587174 [info ]: Finished parsing [  0.06s]
+08:31:28.587615 [info ]: Cached model count updated: 5 models (estimate)
+08:31:28.587635 [info ]: Cached model count updated: 5 models (accurate)
+08:31:28.587667 [info ]: Started scheduling
+08:31:28.587747 [info ]: Finished scheduling [  0.00s]
+08:31:28.978800 [info ]: Started loading project
+08:31:28.982653 [info ]: Started loading project
+08:31:28.983322 [info ]: Finished loading project [  0.00s]
+08:31:29.121105 [info ]: Started parsing
+08:31:29.153910 [info ]: Finished loading project [  0.17s]
+08:31:29.161751 [info ]: Finished parsing [  0.04s]
+08:31:29.162246 [info ]: Cached model count updated: 5 models (estimate)
+08:31:29.162264 [info ]: Cached model count updated: 5 models (accurate)
+08:31:29.162294 [info ]: Started scheduling
+08:31:29.162361 [info ]: Finished scheduling [  0.00s]
+08:31:31.909671 [info ]: Started loading project
+08:31:31.917045 [info ]: Started loading project
+08:31:31.917621 [info ]: Finished loading project [  0.01s]
+08:31:32.136574 [info ]: Started parsing
+08:31:32.218273 [info ]: Finished loading project [  0.30s]
+08:31:32.274635 [info ]: Finished parsing [  0.14s]
+08:31:32.275471 [info ]: Cached model count updated: 5 models (estimate)
+08:31:32.275497 [info ]: Cached model count updated: 5 models (accurate)
+08:31:32.275551 [info ]: Started scheduling
+08:31:32.275665 [info ]: Finished scheduling [  0.00s]
+08:31:32.688648 [info ]: Started loading project
+08:31:32.696274 [info ]: Started loading project
+08:31:32.699490 [info ]: Finished loading project [  0.01s]
+08:31:33.131366 [info ]: Started parsing
+08:31:33.184714 [info ]: Finished loading project [  0.49s]
+08:31:33.194863 [info ]: Finished parsing [  0.06s]
+08:31:33.195795 [info ]: Cached model count updated: 5 models (estimate)
+08:31:33.195924 [info ]: Cached model count updated: 5 models (accurate)
+08:31:33.196170 [info ]: Started scheduling
+08:31:33.196590 [info ]: Finished scheduling [  0.00s]
+08:31:50.590399 [info ]: Started loading project
+08:31:50.594968 [info ]: Started loading project
+08:31:50.595682 [info ]: Finished loading project [  0.01s]
+08:31:50.706594 [info ]: Started parsing
+08:31:50.737818 [info ]: Finished loading project [  0.14s]
+08:31:50.745408 [info ]: Finished parsing [  0.04s]
+08:31:50.745804 [info ]: Cached model count updated: 5 models (estimate)
+08:31:50.745819 [info ]: Cached model count updated: 5 models (accurate)
+08:31:50.745853 [info ]: Started scheduling
+08:31:50.745928 [info ]: Finished scheduling [  0.00s]
+08:31:50.788353 [info ]: Started loading project
+08:31:50.791490 [info ]: Started loading project
+08:31:50.792391 [info ]: Finished loading project [  0.00s]
+08:31:50.899257 [info ]: Started parsing
+08:31:50.934453 [info ]: Finished parsing [  0.04s]
+08:31:50.934601 [info ]: Finished loading project [  0.14s]
+08:31:50.951787 [info ]: Started loading project
+08:31:50.956663 [info ]: Started loading project
+08:31:50.957271 [info ]: Finished loading project [  0.01s]
+08:31:51.069658 [info ]: Started parsing
+08:31:51.101056 [info ]: Finished loading project [  0.14s]
+08:31:51.108679 [info ]: Finished parsing [  0.04s]
+08:31:51.109506 [info ]: Cached model count updated: 5 models (estimate)
+08:31:51.109518 [info ]: Cached model count updated: 5 models (accurate)
+08:31:51.109539 [info ]: Started scheduling
+08:31:51.109592 [info ]: Finished scheduling [  0.00s]
+08:31:51.481499 [info ]: Started loading project
+08:31:51.488486 [info ]: Started loading project
+08:31:51.489499 [info ]: Finished loading project [  0.01s]
+08:31:51.714499 [info ]: Started parsing
+08:31:51.788609 [info ]: Finished loading project [  0.30s]
+08:31:51.807536 [info ]: Finished parsing [  0.09s]
+08:31:51.808167 [info ]: Cached model count updated: 5 models (estimate)
+08:31:51.808191 [info ]: Cached model count updated: 5 models (accurate)
+08:31:51.808230 [info ]: Started scheduling
+08:31:51.808323 [info ]: Finished scheduling [  0.00s]
+08:39:50.060516 [info ]: Started loading project
+08:39:50.183573 [info ]: Finished loading project [  0.12s]
+08:39:50.234176 [info ]: Started loading project
+08:39:50.250681 [info ]: Started loading project
+08:39:50.252031 [info ]: Finished loading project [  0.02s]
+08:39:50.429806 [info ]: Finished loading project [  0.18s]
+08:39:50.461912 [info ]: Started loading project
+08:39:50.469653 [info ]: Started loading project
+08:39:50.470573 [info ]: Finished loading project [  0.01s]
+08:39:50.589700 [info ]: Finished loading project [  0.12s]
+08:39:50.628223 [info ]: Started loading project
+08:39:50.646281 [info ]: Started loading project
+08:39:50.647369 [info ]: Finished loading project [  0.02s]
+08:39:50.816961 [info ]: Started parsing
+08:39:51.046217 [info ]: Finished loading project [  0.40s]
+08:39:51.132264 [info ]: Finished parsing [  0.32s]
+08:39:51.136766 [info ]: Cached model count updated: 5 models (estimate)
+08:39:51.137233 [info ]: Cached model count updated: 5 models (accurate)
+08:39:51.139990 [info ]: Started scheduling
+08:39:51.144757 [info ]: Finished scheduling [  0.00s]

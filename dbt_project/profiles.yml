@@ -1,0 +1,11 @@
+pubg_analytics:
+  target: dev
+  outputs:
+    dev:
+      type: bigquery
+      method: service-account
+      project: pubg-analytics-2025
+      dataset: pubg_marts
+      threads: 1
+      keyfile: /opt/airflow/keys/gcp_key.json
+      location: US

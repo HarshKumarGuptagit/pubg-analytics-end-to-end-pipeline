@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: pubg_raw
+    database: pubg-analytics-2025
+    schema: pubg_raw
+    tables:
+      - name: telemetry
+      - name: matches
+      - name: players
+      - name: player_season_stats 

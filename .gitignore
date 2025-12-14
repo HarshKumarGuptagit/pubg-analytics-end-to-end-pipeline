@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+
+# Environment Variables & Keys (NEVER UPLOAD THESE)
+.env
+keys/
+gcp_key.json
+
+# IDEs
+.vscode/
+.idea/
+
+# Docker / Airflow
+logs/
+plugins/

@@ -1,0 +1,36 @@
+version: '3'
+services:
+  airflow-webserver:
+    build: .
+    command: webserver
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./dags:/opt/airflow/dags
+      - ./scripts:/opt/airflow/scripts
+      - ./dbt_project:/opt/airflow/dbt_project
+      - ./keys:/opt/airflow/keys
+      - ./logs:/opt/airflow/logs
+      - ./data:/opt/airflow/data  # <--- NEW: Persists the DB
+    environment:
+      - PUBG_API_KEY=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI1MDY5YmRmMC1iYTNiLTAxM2UtZmEzYy01MmQ1ZmFmZTRjYzIiLCJpc3MiOiJnYW1lbG9ja2VyIiwiaWF0IjoxNzY1NjIxMjQ3LCJwdWIiOiJibHVlaG9sZSIsInRpdGxlIjoicHViZyIsImFwcCI6Ii1jYzA4M2NkNi02ZDYwLTRjNDItYTMwYi02ZDVlOWJiOWQ3NTEifQ.x-r_G8UaF5XEVkYwrqf_giFRox_1uz7Fnvl5H9PMbUc
+      - AIRFLOW__CORE__EXECUTOR=SequentialExecutor
+      - AIRFLOW__DATABASE__SQL_ALCHEMY_CONN=sqlite:////opt/airflow/data/airflow.db # <--- NEW PATH
+      - AIRFLOW__CORE__LOAD_EXAMPLES=False
+      - GOOGLE_APPLICATION_CREDENTIALS=/opt/airflow/keys/gcp_key.json
+  airflow-scheduler:
+    build: .
+    command: scheduler
+    volumes:
+      - ./dags:/opt/airflow/dags
+      - ./scripts:/opt/airflow/scripts
+      - ./dbt_project:/opt/airflow/dbt_project
+      - ./keys:/opt/airflow/keys
+      - ./logs:/opt/airflow/logs
+      - ./data:/opt/airflow/data  # <--- NEW
+    environment:
+      - PUBG_API_KEY=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI1MDY5YmRmMC1iYTNiLTAxM2UtZmEzYy01MmQ1ZmFmZTRjYzIiLCJpc3MiOiJnYW1lbG9ja2VyIiwiaWF0IjoxNzY1NjIxMjQ3LCJwdWIiOiJibHVlaG9sZSIsInRpdGxlIjoicHViZyIsImFwcCI6Ii1jYzA4M2NkNi02ZDYwLTRjNDItYTMwYi02ZDVlOWJiOWQ3NTEifQ.x-r_G8UaF5XEVkYwrqf_giFRox_1uz7Fnvl5H9PMbUc
+      - AIRFLOW__CORE__EXECUTOR=SequentialExecutor
+      - AIRFLOW__DATABASE__SQL_ALCHEMY_CONN=sqlite:////opt/airflow/data/airflow.db # <--- NEW PATH
+      - AIRFLOW__CORE__LOAD_EXAMPLES=False
+      - GOOGLE_APPLICATION_CREDENTIALS=/opt/airflow/keys/gcp_key.json

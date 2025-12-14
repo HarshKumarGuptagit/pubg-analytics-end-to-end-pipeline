@@ -1,0 +1,23 @@
+name: 'pubg_analytics'
+version: '1.0.0'
+config-version: 2
+
+profile: 'pubg_analytics' # References profiles.yml
+
+model-paths: ["models"]
+analysis-paths: ["analyses"]
+test-paths: ["tests"]
+seed-paths: ["seeds"]
+macro-paths: ["macros"]
+snapshot-paths: ["snapshots"]
+
+target-path: "target"
+clean-targets:
+  - "target"
+  - "dbt_packages"
+
+models:
+  pubg_analytics:
+    # Configures all models in 'marts' to be tables, everything else views
+    marts:
+      +materialized: table
