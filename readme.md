@@ -1,4 +1,4 @@
-# 🏆 ELT Pipeline for PUBG Player Match Stats
+# ELT End-to-End Pipeline for PUBG Player Match Stats
 
 An end-to-end ELT data pipeline that transforms raw gameplay telemetry into actionable esports insights.
 
